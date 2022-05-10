@@ -1,3 +1,9 @@
 [submodule "Vanali-frontend"]
 	path = Vanali-frontend
 	url = https://github.com/shashank1503-cipher/Vanali-frontend.git
+[submodule "vanali-pi-scripts"]
+	path = vanali-pi-scripts
+	url = https://github.com/shashank1503-cipher/vanali-pi-scripts.git
+[submodule "vanali-backend"]
+	path = vanali-backend
+	url = https://github.com/shashank1503-cipher/vanali-backend.git
